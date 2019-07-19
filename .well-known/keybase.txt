@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/dfleischhacker
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://dfleischhacker.de
+  * I am dfleischhacker (https://keybase.io/dfleischhacker) on keybase.
+  * I have a public key ASDDRYqfklZ8yGZm6bQEp4d9Z-NkqbNCEcYHLYJbIyV7TQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c4685efe2a7d434877fb0be57d634a99189d25a0ef9039a5d63969368ca147e80a",
+      "host": "keybase.io",
+      "kid": "0120c3458a9f92567cc86666e9b404a7877d67e364a9b34211c6072d825b23257b4d0a",
+      "uid": "35d6b785d5c26d17010b3a3174303819",
+      "username": "dfleischhacker"
+    },
+    "merkle_root": {
+      "ctime": 1563565116,
+      "hash": "4a131d3f6ed47757f1f6b23cef7a8e4db5891aa28165ebab8cc43564c76d81280d792339cf1258ff789dc3dcadd420be7ad8ac6a58e9a6dad3c69b9620098ce2",
+      "hash_meta": "aeb64a9baeed53454c4056d9e241e13776f1adc3f649f353162f428bbaef1dd9",
+      "seqno": 5803203
+    },
+    "service": {
+      "entropy": "S3jOpDi6AAODWPAaWcmpP7+C",
+      "hostname": "dfleischhacker.de",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.2.0"
+  },
+  "ctime": 1563565128,
+  "expire_in": 504576000,
+  "prev": "723fd4aa090fa124d6f171396a3fafd3a2938d28386f0542b6eb7a3ddde1318a",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgw0WKn5JWfMhmZum0BKeHfWfjZKmzQhHGBy2CWyMle00Kp3BheWxvYWTESpcCDsQgcj/UqgkPoSTW8XE5aj+v06KTjSg4bwVCtut6Pd3hMYrEIO8OUtiNkxtWlRF0n4xTc47xwDBf25z/Vhvjk5r7S0GhAgHCo3NpZ8RAKq5ksYMpKkusaTwfemhDWm0j01JvbNGMJO7PWCY4qnFUF5GNdFrpMTfjFiaLYRBZoMls2CQ1E5fahbGezLVrDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIZeNp4VMSk09GIvNLt50LlmH9BdOp28SDBtkm6uMMg6o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dfleischhacker
+
+==================================================================
